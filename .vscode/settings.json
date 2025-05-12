@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "*.dbclient-js": "javascript",
+        "*.yaml": "bat",
+        "*.ttml": "xml",
+        "*.ttss": "css"
+    }
+}
